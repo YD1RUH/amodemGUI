@@ -12,4 +12,7 @@ Enhance python audio modem with GUI dearpygui.
 - hamlib : [Installation guide](https://github.com/Hamlib/Hamlib)
 
 ## How To Use
-Open terminal, then run `./amodemGUI`
+- clone the source using `git clone https://github.com/YD1RUH/amodemGUI`
+- go into the directory `cd amodemGUI`
+- make all file executable `chmod +x *`
+- Open terminal, then run `./amodemGUI`
