@@ -1,0 +1,9 @@
+{
+  "config": {
+    "bitrate": "2",
+    "callsign": "YD1RUH",
+    "model": "3068",
+    "serial": "/dev/ttyUSB0",
+    "baudrate": "19200"
+  }
+}
