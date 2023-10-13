@@ -1,6 +1,8 @@
 # amodemGUI
 Enhance python audio modem with GUI dearpygui.
 
+![image](amodemGUI.png)
+
 ## Requirement
 - Linux Operating System (64-bit)
 - python3 : `apt install python3`
@@ -10,4 +12,4 @@ Enhance python audio modem with GUI dearpygui.
 - hamlib : [Installation guide](https://github.com/Hamlib/Hamlib)
 
 ## How To Use
-open terminal, then run `./amodemGUI`
+Open terminal, then run `./amodemGUI`
