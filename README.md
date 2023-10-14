@@ -16,3 +16,7 @@ Enhance python audio modem with GUI dearpygui.
 - go into the directory `cd amodemGUI`
 - make all file executable `chmod +x *`
 - Open terminal, then run `./amodemGUI`
+
+## Next TODO
+- adding sending file support
+- pipe the realtime output terminal to window dearPyGui
