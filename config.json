@@ -1,6 +1,6 @@
 {
   "config": {
-    "bitrate": "4",
+    "bitrate": "2",
     "callsign": "YD1RUH",
     "model": "1035",
     "serial": "/dev/ttyUSB0",
