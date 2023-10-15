@@ -19,4 +19,4 @@ Enhance python audio modem with GUI dearpygui.
 
 ## Next TODO
 - adding sending file support
-- pipe the realtime output terminal to window dearPyGui
+- ~pipe the realtime output terminal to window dearPyGui~
